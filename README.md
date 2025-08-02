@@ -60,3 +60,7 @@
 **<h3>:book: Ejemplo de Salida:</h3>**
 
 <img src="./img/movilidad_urbana_terminal.jpg" alt="" style="width: 80%;">
+
+**<h3>:book: Diagrama UML del sistema:</h3>**
+
+<img src="./img/diagrama_uml.png" alt="" style="width: 80%;">
